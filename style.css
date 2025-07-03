@@ -42,7 +42,7 @@
 
 .side-nav-bar {
     background-color: rgb(15, 11, 2);
-    width: 50%;
+    width: 200px;
     height: 100%;
     position: fixed;
     display: none;
